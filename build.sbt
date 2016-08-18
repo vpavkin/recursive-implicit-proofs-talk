@@ -1,5 +1,5 @@
 organization := "ru.vpavkin"
-scalaVersion := "2.11.7"
+scalaVersion := "2.11.8"
 
 lazy val shapelessVersion = "2.3.0"
 lazy val catsVersion = "0.6.0"
